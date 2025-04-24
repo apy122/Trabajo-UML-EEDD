@@ -17,6 +17,7 @@
   - [Clase Categoría](#clase-categoría)
   - [Clase Árbitro](#clase-árbitro)
   - [Clase Espectador](#clase-espectador)
+  ---
 
 ## 1. Explicación diagrama de uso
 En el análisis del sistema se han identificado los siguientes actores:
